@@ -14,7 +14,11 @@ A reactive API for comic books.
 ## About
 
 NoSQL: MongoDB
+<br>
 Unit Testing
+<br>
 Spring WebFlux
+<br>
 Simple CRUD
+<br>
 Netty
